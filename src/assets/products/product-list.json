@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "Id": 1,
+            "Name": "IPhone 14",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7T7FQC6rucqB_IvUlZImbvcQ_n7oC6rhkrSrYvDaIAY1Ta36vchEKZLgvfVZf2EgSB58&usqp=CAU",
+            "Price": 75000,
+            "Description": "iPhone 14 Pro raises the bar for what 48 megapixels can do — delivering 4x the resolution in ProRAW for mind-blowing detail in every crop.",
+            "Category": "electronics",
+            "AvailableCount": 10,
+            "Manufacturer": "Apple"
+        },
+        {
+            "Id": 2,
+            "Name": "IPhone 13",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkW9KAy48nPu2R3GI8cbcDx-6F1lyn3haGg&usqp=CAU",
+            "Price": 110000,
+            "Description": "You can snap tons of cool pictures with the iPhone 13 Pro's powerful camera and telephoto lens. Give your photography skills a boost with these features.",
+            "Category": "electronics",
+            "AvailableCount": 15,
+            "Manufacturer": "Apple"
+        },
+        {
+            "Id": 3,
+            "Name": "Gillete Trimmer",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw91TiNdnmRJJBmgW1uZTpBsG8kAD8UItkgQ&usqp=CAU",
+            "Price": 3500,
+            "Description": "Trimmer is designed for edging, outlining and would be used on the paws, ears, muzzle and tight areas where it's hard to reach with the larger clipper blade.",
+            "Category": "personalcare",
+            "AvailableCount": 13,
+            "Manufacturer": "Gillete"
+        },
+        {
+            "Id": 4,
+            "Name": "Shoes",
+            "ImagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiiD26F7cZZuUfaqqtdqs_hm51U08hTGd5BQ&usqp=CAU",
+            "Price": 1000,
+            "Description": "Wide range of Shoes for Men. Choose from loafers, floaters, sports shoes & more. Buy now! Great Offers. Easy & Fast Delivery.",
+            "Category": "Footwear",
+            "AvailableCount": 50,
+            "Manufacturer": "Puma"
+        }
+    ]
+}

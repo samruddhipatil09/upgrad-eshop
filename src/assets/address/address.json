@@ -1,0 +1,15 @@
+{
+    "address": [
+        {
+            "name": "Sam",
+            "type": "Home",
+            "doorNo": "15",
+            "apartmentName": "Sai Om",
+            "area": "MIDC",
+            "city": "Pune",
+            "state": "Maharashtra",
+            "zipcode": "000000",
+            "contact": "9876543223"
+        }
+    ]
+}
